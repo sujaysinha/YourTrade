@@ -16,3 +16,4 @@ https://github.com/fmilthaler/FinQuant
 
 https://github.com/shashankvemuri/Finance
 
+https://github.com/s-brez/trading-server
